@@ -1,0 +1,14 @@
+/* Define a cor dos títulos h1 */
+h1 {
+    color: darkorange;
+}
+
+/* Define a cor dos parágrafos */
+p {
+    color: darkblue;
+}
+
+/* Define a aparência do corpo da página */
+body {
+    background-color: #fffaf0;
+}
